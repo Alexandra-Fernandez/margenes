@@ -1,0 +1,18 @@
+.hijote{
+	border: 15px solid yellow;
+	margin: 15px;
+	width: 260px;
+	height: 260px;
+	text-align: center;
+
+}
+.hijito{
+	border: 15px solid yellow;
+	margin:auto;
+	width: 260px;
+	height: 260px;
+	text-align: left;
+}
+.hijo{
+	padding: 35px;
+}
